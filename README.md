@@ -5,5 +5,8 @@
 * one
 * two
 
-[x] c
-[] b
+'''javascript
+def fn() {
+
+}'''
+
