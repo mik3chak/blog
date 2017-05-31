@@ -7,7 +7,8 @@
 
 ```javascript
 def fn() {
-
+    var a = 10;
+    
 }
 ```
 ```bash
