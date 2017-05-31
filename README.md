@@ -5,8 +5,8 @@
 * one
 * two
 
-'''javascript
+```javascript
 def fn() {
 
-}'''
+}```
 
